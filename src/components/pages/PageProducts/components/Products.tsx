@@ -28,6 +28,7 @@ export default function Products() {
               image={`https://via.placeholder.com/500/808080/fff?text=${
                 index + 1
               }`}
+              //image={`https://source.unsplash.com/random?sig=${index}`}
               title="Image title"
             />
             <CardContent sx={{ flexGrow: 1 }}>
