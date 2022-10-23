@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Course Store!
+            ⌨️ Keeb shop
           </Link>
         </Typography>
 
