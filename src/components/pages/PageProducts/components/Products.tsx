@@ -70,7 +70,6 @@ export default function Products() {
     });
   }
 
-  console.log(data);
   return (
     <Grid container spacing={4}>
       {/* eslint-disable-next-line @typescript-eslint/no-unused-vars */}
